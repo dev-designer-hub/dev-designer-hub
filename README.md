@@ -40,6 +40,7 @@ I'm Sonika a Front End & Mobile App Developer and Content Creator on [Youtube](h
   <img align="left" alt="Soniks's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
+<br><br>
 
 #### Top Technologies
 
